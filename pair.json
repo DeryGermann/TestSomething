@@ -2,12 +2,11 @@
     "keys": [
         {
             "kty": "RSA",
-            "n": "zanbmTgMpKaoJKexHsviDHpilKpwRI3jGXfmRZr74eUDNd7xqePKR3k8jo-b4AxGzW6gdOBAn59Ar1hbJu4486qF5j2pw9Iplvmc3rey1w6mUna3RWzUbsxiHqXXlaE2jXRusMMIszXL-TOE3oyaQQ1xe96lvbbesoMyH3OT8RY7BDEtwj6ywIj9nh4phfclfrY-dNggpyFQwBo4mKt4I3QNxSirXUUZTzSiIy5Q_5PZQUN8cYULrvFwizLvRlAXlgWUvYPrbgf47BW2tbsbug2EJ-wYPx1xkZHHUQ1G5DEhCPguCxyJ6UDcFtw544AJLZAgkGUcJu2HI8Gnpvoh2yFWTjxaHxfZ0nF3OQjH22q6waXL9I_esYlC9wsQYoxwtSuhdhZ_zmq-Iv6Gwg-cKzjf4GxArwC77kW51rVcolCFgQBqYeZMjTXkMFD5JHo124vjtkiWujjNOH5LZiCXTu9yPaVwslzI02p-riMcLZpIevD5c26wu6KkVQYBU-_b-39gQLB8iFy9fdOTQTcrl2Ui1VVTh4r3fp10AZx0XrrMU1AjUMdjAf_kJlzxFrYtGYRKgF1VVs4OpzoRQkBl5_sOEZFg78wB01Zm1sZKtL5aJv7U6WqGdpxUq8ulLJjzLzkiWYMwagG4d_s2pw0NkbGKGWCPKHZKnZyZUqfNvMc",
+            "n": "nw_aMDq4Ve63vKakxKyM8wEfVU7v7FU_qR7YrmANHMO0jXJBl0UioKw9H75tgrztLU9x2qBjWv35xrJkHzlmvi6RILUHdUtnjb5IrRlWvV7xMr2WhuoEfYMmqeGD9MlwUv0S2QW3iDMHJHIEi6VKvQaWPWDJv94VSWeSZXbG77T6Vw0E0e_Fahm4c06YIPdeMEF8rxZ5htnblzoBuRwiJO4k_KsvEWXQj29SbXvJtyOyizo67oW9MSmOQNcq9jLtAeqpMGF0-HowLZAswfuJM673JkIkYfg4kRVjlocG9gymlXyDoJ5-YqrVbDM0EIewA8jNbKIhSN1hKJop5meeIlhR-sziBnpK7OOJzxox9OFIJFMpITIweLm96N39ZQfVW4qVMIdTYhVVQgvk49vpMQfnrCgp57S1H-QKrs9K7CzhCck5sFLm8eTg7NTQbIN47HtmvIuvLfYED0HacxkvV1hQKxN0n4y9hu3hxyV5hJn4_wmuCcbo4X-94_krD8vUhhX6F2ZwObyIJg_vR_2HrKy02-vFae5xd-Xv4RQkHnS4OrAez3Hi9xft6RrTfqBe807m1psGVffJEAFqWulXEAUtWAlz0bGCNN_r9yj75VWnNcko7krTeR0Yq3xBwyj-9hD0uuJUX3M3sclSjsjDu7Ec4Ixqu-V7Ld5jPVgVPak",
             "e": "AQAB",
             "alg": "RS384",
             "kid": "e537b729-8311-4883-ac43-23737010e373",
-            "key_ops": ["verify"],
-            "ext": true
+            "use": "sig"
           }
     ]
 }
