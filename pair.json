@@ -8,6 +8,15 @@
             "key_ops": ["verify"],
             "ext": true,
             "kid": "e537b729-8311-4883-ac43-23737010e373"
-        }
+        },
+        {
+            "kty": "RSA",
+            "alg": "RS384", 
+            "n": "sAhBeSYJZV4v2Soqtc-_8bOcQpLGxv7g0BWRqJODvMltb-DNhIXZDrKvdN3DgxNf-uYZfntv9aUWa1CLHjRNH4eFg-7YCApYn01kjTqLcQeQLZ1vCLy0EZq_7MQqg5-q1NWtHQJmGAt77IhJ0-u4XrTBQ6V6HWaUUKf9lulnkoHzjRQ4gB2n3ZMz6ijgUYSMv_0hJyCruhBliKerfE8Qmjnn7yqqsXBMsW5mjovTcJnYuXkPijI4rEtxKUz-euBmLnQNJnB0NfhCVtYk-QXMAFG5u6dnGrtrFR2IdSewYTSuNCAR1FajiSLVawuga7VwFPcrw0E9f45K_OsSUbVlIHQAuOf4lvhEuUK7GZR_k_G7uGrneO8cjKN8-NcTo9_v66kVTaGRrNAKR9vgeMIfT6galzrD5Fc4xykwMWKUhJbDHBh0PZbfuEifUTWlETTy28f2qI0ZbSAnouawt3rt2s_-D1xDSzGoWPGPqQZSKe1BrUSKm80D1dkkbOHKTPByxcRkc-J9U7acr5vp9UQnhkRrFhA6SeFqKfkyDL0pkXeqjUXIYNWDflTFuWhuijOEktz8_PQuWNDzm95Cz_OWOGbhatBPmpsxyi2M3MpEcockt9GFjfp0Oxtjo08ScR7ezE4i1YWTAaPcUsh2iXj80vOu2mDD5UU3RrNkxAtTKxU",
+            "e": "AQAB",
+            "key_ops": ["verify"],
+            "ext": true,
+            "kid": "e537b729-8311-4883-ac43-23737010e373"
+          }
     ]
 }
