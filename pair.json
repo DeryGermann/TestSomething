@@ -6,7 +6,8 @@
             "e": "AQAB",
             "alg": "RS384",
             "kid": "e537b729-8311-4883-ac43-23737010e373",
-            "use": "sig"
+            "key_ops": ["verify"],
+            "ext": true
           }
     ]
 }
