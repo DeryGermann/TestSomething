@@ -8,6 +8,15 @@
             "key_ops": ["verify"],
             "ext": true,
             "kid": "e537b729-8311-4883-ac43-23737010e373"
+        },
+        {
+            "kty": "RSA",
+            "alg": "RS384",
+            "n": "pMS0GrCfzCI1j7JUfYKEPFdNN0r5MGipMwS1bH1V-hewMCdT7cVeTlwmR67vf-fWXCiMl0XqIrjiK5OtWpV13v4VnThU3Slu3AuTAa5Bq-E3DZ9pFafCvw4waEiEdV5Z2n9klPU51UYKYjrl_4jC5pw30hLTtrw9g1izL3Pho0Oq1QaW9XaZ7zbNgLK8AZQeX1jhKtgJ5BCvDwlI6mX_bniHzE_hAatg4RCq70hRVNiW7ZcowOKPyQd51zVSj0dayO4YQrYx4K9usLNh7OXgMDGLewDg1VqawPV9ALJ5p2oMNjpFSx2_-WjHeClww2zyd_cAiPibxecG-EtbsqHg0GPLe-qfEDmZo90ybCeCEiu0OjNrPLNTQUVHcwgt0RabsOYZyo-GNIQ6uuVo5Pwse8EVPgWpHDEaN1qsPFMmqinJmObAXJPRKsk1ZHg2-tQIxFfq0OpT5sjHqgOG-cV17Mp5fhPFBtGUOfdU44dmCQZjBnecLt0ZWR-1gIOfe4ij",
+            "e": "AQAB",
+            "key_ops": ["verify"],
+            "ext": true,
+            "kid": "03921e88-be1d-4d3d-b175-fc5223eaa81b"
         }
     ]
 }
