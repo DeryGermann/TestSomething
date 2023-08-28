@@ -17,6 +17,15 @@
             "key_ops": ["verify"],
             "ext": true,
             "kid": "03921e88-be1d-4d3d-b175-fc5223eaa81b"
+        },
+        {
+            "kty": "RSA",
+            "alg": "RS384",
+            "n": "2OTZnZSwGxF8GZmzYwg5Oqk7S2qK3EcKOM_QMD6Xs1W9PJHZG5uSYthI12isO9qIxEOOnQ7u02aiZP7y0ZTjsQBYP2mTS2JxChqIL8BYVhKE8u3-qCQuiBHyMusFkm_YgLOcbGF5taWSJquYerBvbkBtYzySVnOsEC6BBSrhVfgKCPgO76c0953bwykWRiNdAX3AGYNNwirxXuBEwH6JBfEO_dH23zmV0LFfGHdtA0U8Kj0nYLn7XfPfi4G-mYVuTyyOOVcYcnrcFSvgzisiSoUIyb10o9HaDgCzn-YHrGr4UmI34H3UHFUB6EJGA22DCeLA1974iLKnoRvvE8UKJXxoz2mD-YavcKQUC-kmzsBhJq_vOKf1_rlwit8-gY-0lt5Z8rc5Tr3pGfUAMMPDEMOymQpT7__k-ZyZ2P2nE_2v70IhdG8vxJ7w7OEXACaBJkbGay6mvcj0wgbl8hp865_9ElQB8LSyuyB7lZbCcJIX48ECmVAN65bl87RXsfzKcaDdr64a-lLKLL3M9V_gNTHSBQjLkpLE-eNBsVUSW-K1i1k4E1AL0fPW40KEXLw1U2fmLCgj8F1cXMDVGrFIoRVe7hKD-oGQpyMRFA_MTFLfBNz9WPmBQOvyzBpUwKrSAqh0-85cyO-JbglNvtCnephlKAOPAAOiArC9cP7fkfU",
+            "e": "AQAB",
+            "key_ops": ["verify"],
+            "ext": true,
+            "kid": "53f88241-2319-492f-8bae-a73be6ec523f"
         }
     ]
 }
